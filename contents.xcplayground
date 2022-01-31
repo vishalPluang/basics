@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='protocols'/>
+        <page name='swift_basics'/>
+        <page name='url_sessions_api_parsing'/>
+        <page name='url_sessions_api_post_request'/>
+        <page name='url_sessions_encodable_decodable'/>
+        <page name='decodable'/>
+        <page name='clean_decodable_code'/>
+        <page name='clean_encodable_code_post'/>
+        <page name='practise'/>
+    </pages>
+</playground>
