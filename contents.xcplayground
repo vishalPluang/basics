@@ -10,5 +10,6 @@
         <page name='clean_decodable_code'/>
         <page name='clean_encodable_code_post'/>
         <page name='practise'/>
+        <page name='dispatchworkItemExample'/>
     </pages>
 </playground>
