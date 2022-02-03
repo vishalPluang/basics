@@ -11,5 +11,6 @@
         <page name='clean_encodable_code_post'/>
         <page name='practise'/>
         <page name='dispatchworkItemExample'/>
+        <page name='dispatchGroup'/>
     </pages>
 </playground>
