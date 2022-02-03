@@ -12,5 +12,6 @@
         <page name='practise'/>
         <page name='dispatchworkItemExample'/>
         <page name='dispatchGroup'/>
+        <page name='operation-queue'/>
     </pages>
 </playground>
