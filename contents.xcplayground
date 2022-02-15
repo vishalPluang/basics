@@ -14,5 +14,6 @@
         <page name='dispatchGroup'/>
         <page name='operation-queue'/>
         <page name='dependencies_using_operation_queue '/>
+        <page name='delegatePatternUsingProtocol'/>
     </pages>
 </playground>
