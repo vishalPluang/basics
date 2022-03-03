@@ -15,5 +15,6 @@
         <page name='operation-queue'/>
         <page name='dependencies_using_operation_queue '/>
         <page name='delegatePatternUsingProtocol'/>
+        <page name='Dependency_Inversion_Principle'/>
     </pages>
 </playground>
